@@ -9,5 +9,6 @@ print("subs" in st3)
 
 # It should be consistent or Consecutive
 st4 = "Welcome to geekyshows"
-print("Wg" in st3)
+print("Wg" in st4)
+
 
